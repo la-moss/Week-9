@@ -1,4 +1,4 @@
-# Week 9 — Route Propagation Mismatch
+# Week 9 — Route Propagation
 
 **Severity:** SEV-2  
 **Service area:** Platform Networking  
