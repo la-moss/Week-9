@@ -1,4 +1,4 @@
-# Week 9 Incident Lab — Route Propagation Mismatch (Not DNS)
+# Week 9 — Route Propagation Mismatch
 
 **Severity:** SEV-2  
 **Service area:** Platform Networking  
